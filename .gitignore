@@ -1,0 +1,32 @@
+# Build output
+Debug/
+Release/
+build/
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.lst
+
+# IDE / Eclipse metadata
+.metadata/
+.settings/
+*.launch
+.mxproject
+
+# VS Code / other editors
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+*.tmp
